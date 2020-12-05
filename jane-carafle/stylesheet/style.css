@@ -1,0 +1,18 @@
+header h1{
+    color: hotpink;
+    border-bottom: dotted 10px purple;
+}
+
+.midashi2{
+    font-style: italic;
+}
+
+article ul{
+    background-color: #eeeeee;
+    border: solid 5px purple;
+    padding: 10px 10px 10px 30px;
+}
+
+ul li a:hover{
+    color: green;
+}
